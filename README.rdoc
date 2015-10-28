@@ -1,0 +1,8 @@
+== README
+
+do the below things while you are running the application
+
+$rake db:migrate
+$rake db:seed
+
+then start the server
